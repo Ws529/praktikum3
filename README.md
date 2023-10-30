@@ -51,7 +51,7 @@
 * string format, berfungsi untuk format int menjadi string atau format suatu nilai dan memasukkan nilai ke dalam pengganti string{} 
 
 >Output
-<img src="Screenshot/Latihan1_output.png">
+<img src="screanshot/Screanshot.output.latihan1. 2023-10-30 100126.png">
 
 ### Latihan2
 
@@ -74,7 +74,7 @@
 * {2:.2f} = menghasilkan output maks 2 bilangan setelah koma (.)
 
 >Output
-<img src="Screenshot/Latihan2_output.png">
+<img src="screanshot/Screanshot.output.latihan2.2023-10-30 100320.png">
 
 ### Latihan3
 
@@ -110,7 +110,7 @@
 *  for k in range(lebar_belah_ketupat-i) : loop mencetak bintang pada setiap baris bagian bawah
 
 >Output
-<img src="Screenshot/Latihan3_output.png">
+<img src="screanshot/Screanshot.output.latihan3.2023-10-30 100424.png">
 
 ### Lingkaran
     import math
@@ -137,11 +137,11 @@
 * line 14 : menghasilkan output keliling menggunakan f string
 
 >Output
-<img src="Screenshot/Lingkaran_output.png">
+<img src="screanshot/Screanshot.output.lingkaran2023-10-30 100515.png">
 
 ### Flowchart
 
-<img src="Screenshot/Flowchart_Pic.png">
+<img src="screanshot/ss_flowchart.png">
 
 * Masukkan jari-jari lingkaran (r)
 * Hitung Luas Lingkaran dengan rumus L = pi * r * r
